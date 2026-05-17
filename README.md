@@ -4,7 +4,7 @@ Hi 👋 My name is Akram Ouabel
 Mobile Developer
 ----------------
 
-Hi, I’m Akram Ouabel — a second-year student specializing in mobile development. I’m passionate about building intuitive and efficient mobile apps, with a current focus on Flutter and Dart. I enjoy turning ideas into functional, user-friendly applications and continuously strive to write clean and maintainable code. Beyond development, I’m also learning about software architecture, UI/UX design principles, and backend integration to build complete mobile experiences. I like collaborating on projects, contributing to open source, and challenging myself with new technologies. Currently, I'm working on personal projects and exploring ways to improve app performance and user interaction. Feel free to explore my repositories or reach out to connect!
+Hi, I’m Akram Ouabel — a Thrid-year student specializing in mobile development. I’m passionate about building intuitive and efficient mobile apps, with a current focus on Flutter and Dart. I enjoy turning ideas into functional, user-friendly applications and continuously strive to write clean and maintainable code. Beyond development, I’m also learning about software architecture, UI/UX design principles, and backend integration to build complete mobile experiences. I like collaborating on projects, contributing to open source, and challenging myself with new technologies. Currently, I'm working on personal projects and exploring ways to improve app performance and user interaction. Feel free to explore my repositories or reach out to connect!
 
 * 🌍  I'm based in Algeria, Oran
 * ✉️  You can contact me at [akramouabel2005@gmail.com](mailto:akramouabel2005@gmail.com)
