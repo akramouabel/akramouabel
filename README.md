@@ -1,14 +1,17 @@
-Hi 👋 My name is Akram Ouabel
-=============================
+# Hi 👋, I'm Akram Ouabel
 
-Mobile Developer
-----------------
+### Mobile Developer | Information Systems & Digital Transformation
 
-Hi, I’m Akram Ouabel — a Thrid-year student specializing in mobile development. I’m passionate about building intuitive and efficient mobile apps, with a current focus on Flutter and Dart. I enjoy turning ideas into functional, user-friendly applications and continuously strive to write clean and maintainable code. Beyond development, I’m also learning about software architecture, UI/UX design principles, and backend integration to build complete mobile experiences. I like collaborating on projects, contributing to open source, and challenging myself with new technologies. Currently, I'm working on personal projects and exploring ways to improve app performance and user interaction. Feel free to explore my repositories or reach out to connect!
+I'm a Mobile Developer with a background in **Flutter and Dart**, focused on building intuitive, efficient, and user-centered applications. I enjoy transforming ideas into practical digital solutions, with an interest in software architecture, UI/UX, and backend integration.
 
-* 🌍  I'm based in Algeria, Oran
-* ✉️  You can contact me at [akramouabel2005@gmail.com](mailto:akramouabel2005@gmail.com)
-* 🧠  I'm learning Flutter
+Currently pursuing **Strategic Management & Information Systems at ENSM**, I'm expanding my understanding of how technology supports business processes and digital transformation.
+
+- 📍 Based in Kolea, Tipaza; Algeria
+- 🎓 Strategic Management & Information Systems - ENSM
+- 💻 Focus: Flutter, Dart & Mobile Application Development
+- 📊 Interests: Information Systems, Business Intelligence & Digital Transformation
+- 📫 Contact: [akramouabel2005@gmail.com](mailto:akramouabel2005@gmail.com)
+
 
 ### Skills
 
